@@ -1,0 +1,20 @@
+C:\Users\abzik\Downloads\IITU\C# learning\abryaman\abryaman\abryaman\bin\Debug\abryaman.exe.config
+C:\Users\abzik\Downloads\IITU\C# learning\abryaman\abryaman\abryaman\bin\Debug\abryaman.exe
+C:\Users\abzik\Downloads\IITU\C# learning\abryaman\abryaman\abryaman\bin\Debug\abryaman.pdb
+C:\Users\abzik\Downloads\IITU\C# learning\abryaman\abryaman\abryaman\obj\Debug\abryaman.csproj.AssemblyReference.cache
+C:\Users\abzik\Downloads\IITU\C# learning\abryaman\abryaman\abryaman\obj\Debug\abryaman.Form1.resources
+C:\Users\abzik\Downloads\IITU\C# learning\abryaman\abryaman\abryaman\obj\Debug\abryaman.Properties.Resources.resources
+C:\Users\abzik\Downloads\IITU\C# learning\abryaman\abryaman\abryaman\obj\Debug\abryaman.csproj.GenerateResource.cache
+C:\Users\abzik\Downloads\IITU\C# learning\abryaman\abryaman\abryaman\obj\Debug\abryaman.csproj.CoreCompileInputs.cache
+C:\Users\abzik\Downloads\IITU\C# learning\abryaman\abryaman\abryaman\obj\Debug\abryaman.exe
+C:\Users\abzik\Downloads\IITU\C# learning\abryaman\abryaman\abryaman\obj\Debug\abryaman.pdb
+C:\Users\abzik\Downloads\IITU\Решение Абряман С++\Source Code\abryaman\abryaman\bin\Debug\abryaman.exe.config
+C:\Users\abzik\Downloads\IITU\Решение Абряман С++\Source Code\abryaman\abryaman\bin\Debug\abryaman.exe
+C:\Users\abzik\Downloads\IITU\Решение Абряман С++\Source Code\abryaman\abryaman\bin\Debug\abryaman.pdb
+C:\Users\abzik\Downloads\IITU\Решение Абряман С++\Source Code\abryaman\abryaman\obj\Debug\abryaman.csproj.AssemblyReference.cache
+C:\Users\abzik\Downloads\IITU\Решение Абряман С++\Source Code\abryaman\abryaman\obj\Debug\abryaman.Form1.resources
+C:\Users\abzik\Downloads\IITU\Решение Абряман С++\Source Code\abryaman\abryaman\obj\Debug\abryaman.Properties.Resources.resources
+C:\Users\abzik\Downloads\IITU\Решение Абряман С++\Source Code\abryaman\abryaman\obj\Debug\abryaman.csproj.GenerateResource.cache
+C:\Users\abzik\Downloads\IITU\Решение Абряман С++\Source Code\abryaman\abryaman\obj\Debug\abryaman.csproj.CoreCompileInputs.cache
+C:\Users\abzik\Downloads\IITU\Решение Абряман С++\Source Code\abryaman\abryaman\obj\Debug\abryaman.exe
+C:\Users\abzik\Downloads\IITU\Решение Абряман С++\Source Code\abryaman\abryaman\obj\Debug\abryaman.pdb
